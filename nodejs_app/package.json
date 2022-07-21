@@ -1,0 +1,22 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/* --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Tadonkeng/devops1.git)"
+  },
+  "author": "Tadonkeng",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0",
+    "supertest": "^6.2.4"
+  }
+}
